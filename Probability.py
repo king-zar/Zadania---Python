@@ -19,8 +19,6 @@ if n>=k:
 else:
     twoWhite = 0
 
-print(twoWhite)
-
 if m>=k:
     tmp = ballsNumber
     i = k

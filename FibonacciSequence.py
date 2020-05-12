@@ -8,3 +8,4 @@ while (i<n-2): # we have 2 first elements in tab fib - that's why we deduct 2 fr
     i = i+1
 
 print(fib)
+
